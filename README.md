@@ -1,75 +1,29 @@
-# Hi, I'm Maicon 
+# Maicon's GitHub Profile
 
-## AI Developer
+## About Me
+I'm Maicon, an AI Developer with roots in technical support for telecom. I've spent years troubleshooting real-world issues, from network diagnostics to process optimization. Now, I'm channeling that into AI—specifically agentic AI, where systems act independently to get things done.
 
-I'm a developer focused on **AI-assisted software development**, using artificial intelligence as a practical tool to design, build, and improve software solutions.
+Forget the "prompt engineer" label; it's outdated and misses the point. True AI development isn't about tweaking chatbots or riding hype waves. It's about engineering robust, autonomous agents that integrate with tools, reason through tasks, and deliver measurable value. I build these using frameworks like LangChain, PyTorch, and custom orchestration—no shortcuts, just solid code.
 
-My approach is simple:  
-use AI to **work smarter**, automate repetitive tasks, integrate systems, and accelerate problem-solving — without losing control over code quality or logic.
+## Why Agentic AI?
+In 2026, AI isn't magic; it's engineering. Agentic systems (think self-operating agents that plan, execute, and adapt) are where the real impact happens. They automate workflows in telecom, finance, or any field needing efficiency. My projects aim to prove this: practical tools that work, not demos.
 
----
-
-## What I do
-
-- AI-assisted development (code, debugging, refactoring)
-- Task automation and internal tools
-- API integrations
-- Scripts to improve productivity and workflows
-
-I see AI as a **development accelerator**, not a replacement for engineering fundamentals.
-
----
+## Key Projects
+- **Telecom Diagnostic Agent**: An autonomous agent that analyzes network logs, simulates failures, and suggests fixes—built with Python and ML models.
+- **Process Optimizer**: Agent for streamlining support tickets, reducing manual steps by 50% in simulations.
+- More coming: Focused on eSIM testing and MVNO support automation.
 
 ## Tech Stack
+- Languages: Python, JavaScript
+- AI/ML: PyTorch, Hugging Face, LangGraph
+- Tools: AWS, Docker for deployment
+- Approach: Code-first, test-driven, open-source when possible.
 
-**Languages**
-- Python
-- JavaScript
-- Node.js
-- CSS
+## Let's Connect
+If you're tackling real problems with AI, reach out. Open to collaborations on agentic systems.
 
-**AI & Developer Tools**
-- ChatGPT
-- GitHub Copilot
-- DeepSeek
-- Grok
-- Gemini
+- LinkedIn: www.linkedin.com/in/maicon-cubero-5a1755157
 
-**Other**
-- Git & GitHub
-- REST APIs
-- Automation scripts
+- Email: maiconcubero@outlook.com
 
----
-
-## How I use AI in practice
-
-- Generating and refining code with human review
-- Speeding up prototyping and experimentation
-- Improving error analysis and troubleshooting
-- Supporting architectural decisions and integrations
-
-Every project here reflects **hands-on usage**, not theoretical experiments.
-
----
-
-## Current Focus
-
-- Building real-world automation tools
-- Developing API-driven solutions
-- Creating a consistent public portfolio
-- Transitioning professionally into the software development field
-
----
-
-## Philosophy
-
-Clean code > hype  
-Practical solutions > buzzwords  
-Understanding > blind automation  
-
----
-
-## Contact
-
-GitHub: @MaiconCubero
+Thanks for visiting—check the repos for code that speaks for itself.
